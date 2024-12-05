@@ -15,7 +15,7 @@ const questions = [
     {
         type: 'input',
         name: 'email',
-        message: "Enter email address:?",
+        message: "Enter email address for people to contact you:?",
     },
 
 
@@ -34,12 +34,12 @@ const questions = [
     {
         type: 'input',
         name: 'installation',
-        message: "Describe the steps required to install your project for the Installation section.",
+        message: "Describe the steps required to install your project.",
     },
     {
         type: 'input',
         name: 'usage',
-        message: "Provide instructions and examples of your project in use for the Usage section.",
+        message: "Provide instructions and examples of your project.",
     },
     
     {
@@ -59,11 +59,6 @@ const questions = [
         message: "Provide any tests written for your application and provide examples on how to run them.",
     },
     
-    {
-        type: 'input',
-        name: 'questions',
-        message: "Provide any questions regarding the project:",
-    }
 ];
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
@@ -73,8 +68,12 @@ function writeToFile(fileName, data) {
 }
 
 // TODO: Create a function to initialize app
-async function init() {
-    const userResponse = await inquirer.prompt(questions);
+ function init() {
+    return inquirer.prompt(questions);
+}
+
+// Function call to initialize app
+init().then(userResponse =>{
     console.log('Your Response:', userResponse);
     console.log('Making Your ReadMe file');
 
@@ -83,8 +82,4 @@ async function init() {
 
     writeToFile('ExampleREADME.md', markdown);
     console.log("README file Complete");
-
-}
-
-// Function call to initialize app
-init();
+});
