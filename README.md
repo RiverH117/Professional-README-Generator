@@ -6,6 +6,8 @@
 
 ## Usage
 
+## Visuals/Vids
+
 ## Authors and Acknowledgment
 
 ## Project Status

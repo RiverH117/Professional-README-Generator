@@ -4,54 +4,58 @@
 ![License](https://img.shields.io/static/v1?label=license&message=GNU+AGPLv3&color=orange)
 
       
-      aaaaaaaaa;
+      
+## Description
+      aaaaaa;
       
       
 ## Table of Contents
       
       
-* [Installation](#Installation)
+* [Installation](#installation)
       
-* [Instructions](#Instructions)
+* [Usage](#usage)
       
-* [Contributors](#Contributors)
+* [Contribution](#contribution)
       
-* [Tests](#Tests)
+* [Tests](#tests)
       
-* [License](#License)
+* [License](#license)
       
-* [Questions](#Questions);
+* [Questions](#questions);
       
       
 ## Installation 
 
       
- aaaaaaaaa
+ aaaaaaa
       
       
 ## Usage
       
-aaaaaaaa
+aaaaaa
       
       
-## Contribution Guidelines
+## License
       
-aaaaaaaa
+ This project is licensed under the GNU AGPLv3 - see the [License](https://choosealicense.com/licenses/gpl-3.0/) page for more information.
+      
+      
+## Contribution
+      
+aaaaaa
 
       
 ## Tests
       
-aaaaaaaa
+aaaaaa
 
-      
-## License
-      
- This project is licensed under the Apache License 2.0 - see the [License](https://choosealicense.com/licenses/apache-2.0/) page.
     
       
-## Questions
-
-  
-    
+## Questions?
+      
+ Click my Github username to redirect you to my profile [RiverH117](https://github.com/RiverH117).
+      
+ Contact me at taversioniv@gmail.com if you have additional questions about the README generator.
     
     
