@@ -1,11 +1,11 @@
 # Professional-README-Generator
 
-##Description
+## Description
 
-##Installation
+## Installation
 
-##Usage
+## Usage
 
-##Authors and Acknowledgment
+## Athors and Acknowledgment
 
-##Project Status
+## Project Status
