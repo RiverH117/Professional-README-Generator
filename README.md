@@ -6,6 +6,6 @@
 
 ## Usage
 
-## Athors and Acknowledgment
+## Authors and Acknowledgment
 
 ## Project Status
