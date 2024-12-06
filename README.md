@@ -2,6 +2,7 @@
 
 ## Description
 This is a README generator that creats a new README file for a new project.
+## Table Of Contents
 -[Installation](#installation)
 
 -[Usage](#usage)
