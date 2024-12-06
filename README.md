@@ -29,8 +29,6 @@ Finally, fs.writefile will generate your project's README file. [Here](https://g
 
 ## Demo/Walkthrough
 Click [HERE](https://app.screencastify.com/v3/watch/i56jnpkHq92KiVKeD8Iy) to watch a walkthrough/demo
-## Table of Contents
-
 
 ## Authors and Acknowledgment
 Credits goes to:
